@@ -136,7 +136,7 @@ prompt response from thomas76milton@gmail.com, to your provided address, <strong
 
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css">
 <script src='https://www.google.com/recaptcha/api.js'></script>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 

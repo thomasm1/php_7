@@ -112,7 +112,7 @@ echo "<h2>Mars Reader</h2><h4>Greetings!</h4>
 
 
 
- echo " <script type=\"text/javascript\"> var url = \"https://api.nasa.gov/planetary/apod?api_key=NNKOjkoul8n1CH18TWA9gwngW1s1SmjESPjNoUFo\";
+ echo " <script type=\"text/javascript\"> var url = \"https://api.nasa.gov/planetary/apod?api_key=APP_KEY\";
 
   $.ajax({
 
